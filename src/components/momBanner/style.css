@@ -1,0 +1,22 @@
+#momRow {
+    background-image: url("../../assets/images/banner-1.jpg");
+    position: relative;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+  }
+  
+  #momem {
+    padding-left: 15vmin;
+  
+    padding-top: 15vw;
+    padding-bottom: 20vw;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-size: calc(1vw + 1px);
+  }
+  
+  #momButt {
+    background: orange;
+  }

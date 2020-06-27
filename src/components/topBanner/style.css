@@ -1,0 +1,54 @@
+.btn {
+    font-size: 2vmin;
+  }
+  
+  
+  /* fixed rooster logo top left */
+  #logo {
+    padding-left: 6rem;
+    z-index: 11;
+    width: 300px;
+    height: 150px;
+    position: fixed;
+  }
+  
+  
+  /* top banner "heRow" */
+  #heRow {
+    position: relative;
+    text-align: center;
+    background-image: url("../../assets/images/hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+  }
+  
+  /* welcom text in heRow */
+  #welcome {
+    padding-top: 20vw;
+    padding-bottom: 20vw;
+  }
+  
+  
+  /* welcome to text in heRow */
+  #welNoFill {
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-family: "Open Sans", sans-serif;
+    font-size: 8vmin;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  /* Rooster Grin text in heRow div */
+  #welRooster {
+    font-size: 7vmin;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+  }
+  
+  /* button in heRow div */
+  #heroButt {
+    background-color: purple;
+  }

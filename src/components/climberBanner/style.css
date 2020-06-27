@@ -1,0 +1,23 @@
+/* cilimber and lorem paragraph */
+#climbRow {
+    overflow: hidden;
+    word-wrap: break-word;
+    min-height: fit-content;
+  }
+  
+  #climbLorem {
+    padding-left: 15vw;
+    padding-top: 5vw;
+    padding-right: 10vw;
+  }
+  
+  #climbLoremP {
+    text-align: left;
+    font-size: calc(1vw + 1px);
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  #climbLoremPic {
+    width: 50vw;
+    background: #000;
+  }

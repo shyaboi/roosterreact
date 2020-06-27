@@ -1,0 +1,36 @@
+#svgDiv {
+    background: #000;
+  }
+  
+  #iconLorem {
+    padding-left: 15vw;
+    padding-top: 10vw;
+    padding-right: 10vw;
+  }
+  
+  #iconLoremP {
+    text-align: left;
+    font-size: calc(1vw + 1px);
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  #svgDiv {
+    align-items: center;
+    text-align: center;
+    padding-top: 10vmin;
+  
+    background: whitesmoke;
+  }
+  
+  #svgDiv > div {
+    height: 75%;
+    width: 50%;
+  }
+  
+  .circle {
+    height: 45%;
+    border: 0.2px solid purple;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+  }
