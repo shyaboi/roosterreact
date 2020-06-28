@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/shyaboi/roosterreact/static/css/main.55477bff.chunk.css",
+    "main.js": "/shyaboi/roosterreact/static/js/main.68525cf2.chunk.js",
+    "main.js.map": "/shyaboi/roosterreact/static/js/main.68525cf2.chunk.js.map",
+    "runtime-main.js": "/shyaboi/roosterreact/static/js/runtime-main.35b1cd3e.js",
+    "runtime-main.js.map": "/shyaboi/roosterreact/static/js/runtime-main.35b1cd3e.js.map",
+    "static/css/2.fa4df4b2.chunk.css": "/shyaboi/roosterreact/static/css/2.fa4df4b2.chunk.css",
+    "static/js/2.fde8e441.chunk.js": "/shyaboi/roosterreact/static/js/2.fde8e441.chunk.js",
+    "static/js/2.fde8e441.chunk.js.map": "/shyaboi/roosterreact/static/js/2.fde8e441.chunk.js.map",
+    "index.html": "/shyaboi/roosterreact/index.html",
+    "precache-manifest.13ee0bfc896ddfcd44705a8c28d16aeb.js": "/shyaboi/roosterreact/precache-manifest.13ee0bfc896ddfcd44705a8c28d16aeb.js",
+    "service-worker.js": "/shyaboi/roosterreact/service-worker.js",
+    "static/css/2.fa4df4b2.chunk.css.map": "/shyaboi/roosterreact/static/css/2.fa4df4b2.chunk.css.map",
+    "static/css/main.55477bff.chunk.css.map": "/shyaboi/roosterreact/static/css/main.55477bff.chunk.css.map",
+    "static/js/2.fde8e441.chunk.js.LICENSE.txt": "/shyaboi/roosterreact/static/js/2.fde8e441.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/shyaboi/roosterreact/static/media/hero.83af6455.jpg",
+    "static/media/facebook.svg": "/shyaboi/roosterreact/static/media/facebook.7bc311e4.svg",
+    "static/media/home-expertise.svg": "/shyaboi/roosterreact/static/media/home-expertise.4631d634.svg",
+    "static/media/home-hygiene.svg": "/shyaboi/roosterreact/static/media/home-hygiene.2647fa6b.svg",
+    "static/media/home-lab.svg": "/shyaboi/roosterreact/static/media/home-lab.c97ae485.svg",
+    "static/media/home-retention.svg": "/shyaboi/roosterreact/static/media/home-retention.79cb05a3.svg",
+    "static/media/img-1.jpg": "/shyaboi/roosterreact/static/media/img-1.cefc8035.jpg",
+    "static/media/instagram.svg": "/shyaboi/roosterreact/static/media/instagram.417149bc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35b1cd3e.js",
+    "static/css/2.fa4df4b2.chunk.css",
+    "static/js/2.fde8e441.chunk.js",
+    "static/css/main.55477bff.chunk.css",
+    "static/js/main.68525cf2.chunk.js"
+  ]
+}
