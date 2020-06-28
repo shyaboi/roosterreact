@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "520302708406de4da790428d903bcdc0",
+    "revision": "9619037918ce495a2ddd8b76376cd4e3",
     "url": "/roosterreact/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roosterreact/static/css/2.fa4df4b2.chunk.css"
   },
   {
-    "revision": "365bb50d1b79afceeb55",
-    "url": "/roosterreact/static/css/main.ce0e2757.chunk.css"
+    "revision": "e4c1e837862dae0a6e97",
+    "url": "/roosterreact/static/css/main.32f4cdb8.chunk.css"
   },
   {
     "revision": "7bc7afc7563078800c56",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roosterreact/static/js/2.fde8e441.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "365bb50d1b79afceeb55",
-    "url": "/roosterreact/static/js/main.9dd0000f.chunk.js"
+    "revision": "e4c1e837862dae0a6e97",
+    "url": "/roosterreact/static/js/main.96eb3dc5.chunk.js"
   },
   {
     "revision": "5a0b9198516472adab99",
