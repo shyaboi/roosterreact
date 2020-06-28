@@ -18,10 +18,9 @@ function Climber() {
               quisquam accusamus reiciendis laudantium optio? Mollitia nobis rem
               aut impedit, debitis soluta vel maiores eius doloremque minima
               iste! Esse, hic molestias? Lorem ipsum dolor sit amet, consectetur
-              adipisicing elit. Illo dolorum fugit dignissimos culpa iste
-              maiores assumenda? 
+              adipisicing elit.
             </p>
-          
+          <link />
           </div>
           </Col-6>
         <Col-6 class="col-6">

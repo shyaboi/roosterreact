@@ -17,7 +17,8 @@
   
   #iconLoremP {
     text-align: left;
-    font-size: calc(1vw + 1px);
+    font-size: calc(1.5vw + 1px);
+
     font-family: "Open Sans", sans-serif;
   }
   

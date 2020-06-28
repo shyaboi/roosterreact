@@ -17,10 +17,7 @@ function Icon() {
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam
               quisquam accusamus reiciendis laudantium optio? Mollitia nobis rem
-              aut impedit, debitis soluta vel maiores eius doloremque minima
-              iste! Esse, hic molestias? Lorem ipsum dolor sit amet, consectetur
-              adipisicing elit. Illo dolorum fugit dignissimos culpa iste
-              maiores assumenda?
+              aut impedit.
             </p>
           </div>
         </Col-6>

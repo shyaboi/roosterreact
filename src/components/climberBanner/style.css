@@ -1,6 +1,5 @@
 cilimber and lorem paragraph
 #climbRow {
-  height: 2vw;
     overflow: hidden;
   }
   
@@ -19,6 +18,6 @@ cilimber and lorem paragraph
   }
   
   #climbLoremPic {
-    width: 51.2vw;
+    width: 49vw;
     background: #000;
   }
