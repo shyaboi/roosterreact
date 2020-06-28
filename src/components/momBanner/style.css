@@ -1,5 +1,6 @@
 #momRow {
   width: 102vw;
+  height: 50vw;
   background-image: url("../../assets/images/banner-1.jpg");
   position: relative;
   text-align: left;
@@ -21,7 +22,7 @@
 }
 
 #momButt {
-  padding: 1vw;
+  padding: .5vw;
   background-color: #FF7218;
   color: aliceblue;
   font-family: "Open Sans", sans-serif;

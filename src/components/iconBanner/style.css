@@ -17,6 +17,8 @@
   }
   
   #svgDiv {
+
+    font-size: calc(2vmin + 1px);
     align-items: center;
     text-align: center;
     padding-top: 5vmin;
