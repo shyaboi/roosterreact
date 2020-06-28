@@ -1,11 +1,8 @@
 import React from "react";
 import "./style.css";
-import ClickKid from '../Buttons/kidButt'
-
-
+import ClickKid from "../Buttons/kidButt";
 
 function Kid() {
-
   return (
     // <!-- bootstrap container row banner kid -->
     <div className="container-fluid">
@@ -13,9 +10,7 @@ function Kid() {
       <div id="kidRow" className="row">
         {/* <!-- lorem div with button --> */}
         <div id="kidRem">
-          <h5 id="kidH5">
-            LOREM IPSUM
-          </h5>
+          <h5 id="kidH5">LOREM IPSUM</h5>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Perspiciatis, eveniet? Saepe earum enim vel nihil excepturi
@@ -27,6 +22,5 @@ function Kid() {
       </div>
     </div>
   );
-
-  }
+}
 export default Kid;

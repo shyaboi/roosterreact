@@ -1,21 +1,19 @@
-#starH2{
+#starH2 {
   font-size: 4vw;
 }
 
 .checked {
-    color: orange;
-  }
-  
-li > div {
+  color: orange;
+}
+
+li>div {
   margin-top: 6vw;
   font-size: 1.5vw;
 }
 
 
 
-  #ratingStars {
-    text-align: center;
-    padding-top: 10vw;
-  }
-  
-  
+#ratingStars {
+  text-align: center;
+  padding-top: 10vw;
+}

@@ -25,29 +25,33 @@ function Icon() {
           <Container>
             <Row>
               <Col>
-              <div>
-                <img className="circle" src={HomeLab} alt="cartoon lab glasses"/>
-                LOREM IPSUM
+                <div>
+                  <img
+                    className="circle"
+                    src={HomeLab}
+                    alt="cartoon lab glasses"
+                  />
+                  LOREM IPSUM
                 </div>
               </Col>
               <Col>
-              <div>
-                <img src={HomeEx} className="circle" alt="notepad and pen"/>
-                LOREM
+                <div>
+                  <img src={HomeEx} className="circle" alt="notepad and pen" />
+                  LOREM
                 </div>
               </Col>
             </Row>
             <Row>
               <Col>
-              <div>
-                <img src={HomeHyg} className="circle" alt="face mask"/>
-                LOREM IPSUM
+                <div>
+                  <img src={HomeHyg} className="circle" alt="face mask" />
+                  LOREM IPSUM
                 </div>
               </Col>
               <Col>
-              <div>
-                <img src={HomeRet} className="circle" alt="calander" />
-                IPSUM
+                <div>
+                  <img src={HomeRet} className="circle" alt="calander" />
+                  IPSUM
                 </div>
               </Col>
             </Row>

@@ -1,24 +1,25 @@
-cilimber and lorem paragraph
-#climbRow {
-    overflow: hidden;
-  }
-  
-  #climbLorem {
-    padding-left: 15vw;
-    padding-top: 5vw;
-    padding-right: 10vw;
-  }
-  #climbH5{
-    font-size: 3vw;
-    font-weight: 700;
-  }
-  #climbLoremP {
-    text-align: left;
-    font-size: calc(1.3vw + 1px);
-    font-family: "Open Sans", sans-serif;
-  }
-  
-  #climbLoremPic {
-    width: 49.7vw;
-    background: #000;
-  }
+cilimber and lorem paragraph #climbRow {
+  overflow: hidden;
+}
+
+#climbLorem {
+  padding-left: 15vw;
+  padding-top: 5vw;
+  padding-right: 10vw;
+}
+
+#climbH5 {
+  font-size: 3vw;
+  font-weight: 700;
+}
+
+#climbLoremP {
+  text-align: left;
+  font-size: calc(1.3vw + 1px);
+  font-family: "Open Sans", sans-serif;
+}
+
+#climbLoremPic {
+  width: 49.7vw;
+  background: #000;
+}

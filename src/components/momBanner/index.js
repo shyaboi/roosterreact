@@ -1,23 +1,22 @@
-import React from 'react';
-import './style.css';
-import ClickMom from '../Buttons/momButt'
-
+import React from "react";
+import "./style.css";
+import ClickMom from "../Buttons/momButt";
 
 function Mom() {
-    return(
+  return (
     // <!-- 3rd cell with mom and kid with laptop -->
-  <div className="container-fluid">
-    {/* <!-- bootstrap mom row --> */}
-    <div id="momRow" className="row">
-      {/* <!-- lorem div with button --> */}
-      <div id="momem" className="col-12">
-        <h5 id="momH5">LOREM IPSUM</h5>
-        {/* <!-- welcome dummy button --> */}
-        <ClickMom id="momButt" />
+    <div className="container-fluid">
+      {/* <!-- bootstrap mom row --> */}
+      <div id="momRow" className="row">
+        {/* <!-- lorem div with button --> */}
+        <div id="momem" className="col-12">
+          <h5 id="momH5">LOREM IPSUM</h5>
+          {/* <!-- welcome dummy button --> */}
+          <ClickMom id="momButt" />
+        </div>
       </div>
     </div>
-  </div>
-  )
+  );
 }
 
 export default Mom;

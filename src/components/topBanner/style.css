@@ -1,60 +1,74 @@
+/* fixed rooster logo top left */
+#logo {
+  padding-left: 6rem;
+  z-index: 11;
+  width: 300px;
+  height: 150px;
+  position: fixed;
+}
 
-  
-  /* fixed rooster logo top left */
-  #logo {
-    padding-left: 6rem;
-    z-index: 11;
-    width: 300px;
-    height: 150px;
-    position: fixed;
-  }
-  
-  
-  /* top banner "heRow" */
-  #heRow {
-    width: 102vw;
 
-    position: relative;
-    text-align: center;
-    background-image: url("../../assets/images/hero.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    overflow: hidden;
+/* top banner "heRow" */
+#heRow {
 
-  }
-  
-  /* welcom text in heRow */
-  #welcome {
-    padding-top: 20vw;
-    padding-bottom: 20vw;
-  }
-  
-  
-  /* welcome to text in heRow */
-  #welNoFill {
-    color: transparent;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: white;
-    font-family: "Open Sans", sans-serif;
-    font-size: 6vw;
-    font-weight: 600;
+  opacity: 1;
+  animation-name: fadeInHero;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-duration: 3s;
+  width: 102vw;
 
-  }
-  
-  /* Rooster Grin text in heRow div */
-  #welRooster {
-    font-size: 4vw;
-    font-weight: 600;
-    font-family: "Open Sans", sans-serif;
-    color: white;
-  }
-  
-  /* button in heRow div */
-  #heroButt {
-    font-size: 1.5vw;
+  position: relative;
+  text-align: center;
+  background-image: url("../../assets/images/hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
 
-    padding: 1vw;
-    background-color: #AC5FD1;
-    color: aliceblue;
-    font-family: "Open Sans", sans-serif;
+}
+
+@keyframes fadeInHero {
+  0% {
+    opacity: 0;
   }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+/* welcom text in heRow */
+#welcome {
+  padding-top: 20vw;
+  padding-bottom: 20vw;
+}
+
+
+/* welcome to text in heRow */
+#welNoFill {
+  color: transparent;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 6vw;
+  font-weight: 600;
+
+}
+
+/* Rooster Grin text in heRow div */
+#welRooster {
+  font-size: 4vw;
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+/* button in heRow div */
+#heroButt {
+  font-size: 1.5vw;
+
+  padding: 1vw;
+  background-color: #AC5FD1;
+  color: aliceblue;
+  font-family: "Open Sans", sans-serif;
+}

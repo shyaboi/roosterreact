@@ -1,44 +1,55 @@
-#iconRow{
+#iconRow {
   width: 102vw;
   height: 36vw;
 
 }
-  
-  #iconLorem {
-    padding-left: 15vw;
-    padding-top: 5vw;
-    padding-right: 10vw;
+
+#iconLorem {
+  padding-left: 15vw;
+  padding-top: 5vw;
+  padding-right: 10vw;
+}
+
+#iconH5 {
+  font-size: 3vw;
+
+}
+
+#iconLoremP {
+  text-align: left;
+  font-size: calc(1.5vw + 1px);
+
+  font-family: "Open Sans", sans-serif;
+}
+
+#svgDiv {
+
+  font-size: calc(1.7vmin + 1px);
+  align-items: center;
+  text-align: center;
+  padding-top: 5vmin;
+
+  background: whitesmoke;
+}
+
+#svgDiv>div {
+  padding: 3vw;
+  font-size: 1.5vw;
+  animation: bounce 15s infinite alternate;
+  width: 60%;
+}
+
+@keyframes bounce {
+  from {
+    transform: translateY(-5vw);
   }
 
-  #iconH5 {
-    font-size: 3vw;
-  
+  to {
+    transform: translateY(3vw);
   }
-  
-  #iconLoremP {
-    text-align: left;
-    font-size: calc(1.5vw + 1px);
+}
 
-    font-family: "Open Sans", sans-serif;
-  }
-  
-  #svgDiv {
-
-    font-size: calc(1.7vmin + 1px);
-    align-items: center;
-    text-align: center;
-    padding-top: 5vmin;
-  
-    background: whitesmoke;
-  }
-  
-  #svgDiv > div {
-    padding: 3vw;
-
-    width: 60%;
-  }
-  
-  .circle {
-    border: 0.2px solid purple;
-    border-radius: 100px;
-  }
+.circle {
+  border: 0.2px solid purple;
+  border-radius: 100px;
+}
