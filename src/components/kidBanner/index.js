@@ -12,7 +12,7 @@ function Kid() {
       {/* <!-- bootstrap kid row --> */}
       <div id="kidRow" className="row">
         {/* <!-- lorem div with button --> */}
-        <div id="kidRem" className="col-12">
+        <div id="kidRem" >
           <h2>
             LOREM IPSUM
           </h2>
