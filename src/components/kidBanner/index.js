@@ -19,8 +19,7 @@ function Kid() {
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Perspiciatis, eveniet? Saepe earum enim vel nihil excepturi
-            praesentium deleniti ea sed, tempora officiis omnis nostrum sint
-            distinctio similique fugit eos sit?
+            praesentium deleniti ea sed.
           </p>
           {/* <!-- welcome dummy button --> */}
           <ClickKid type="button" id="kidButt" />

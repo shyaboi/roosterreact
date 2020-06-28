@@ -9,7 +9,8 @@ cilimber and lorem paragraph
     padding-right: 10vw;
   }
   #climbH5{
-    font-size: 4vw;
+    font-size: 3vw;
+    font-weight: 700;
   }
   #climbLoremP {
     text-align: left;
@@ -18,6 +19,6 @@ cilimber and lorem paragraph
   }
   
   #climbLoremPic {
-    width: 49vw;
+    width: 49.7vw;
     background: #000;
   }
