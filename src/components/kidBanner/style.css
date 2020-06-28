@@ -1,0 +1,22 @@
+#kidRow {
+    background-image: url("../../assets/images/banner-2.jpg");
+    position: relative;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+  }
+  
+  #kidRem {
+    padding-left: 55vw;
+    padding-right: 15vw;
+    padding-top: 15vw;
+    padding-bottom: 15vw;
+    font-family: "Open Sans", sans-serif;
+    color: black;
+    font-size: calc(1vw + 1px);
+  }
+  
+  #kidButt {
+    background: orange;
+  }
