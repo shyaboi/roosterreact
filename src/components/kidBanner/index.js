@@ -13,9 +13,9 @@ function Kid() {
       <div id="kidRow" className="row">
         {/* <!-- lorem div with button --> */}
         <div id="kidRem">
-          <h4>
+          <h5>
             LOREM IPSUM
-          </h4>
+          </h5>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Perspiciatis, eveniet? Saepe earum enim vel nihil excepturi

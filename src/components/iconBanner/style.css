@@ -18,7 +18,7 @@
   
   #svgDiv {
 
-    font-size: calc(2vmin + 1px);
+    font-size: calc(1.7vmin + 1px);
     align-items: center;
     text-align: center;
     padding-top: 5vmin;
@@ -29,7 +29,7 @@
   #svgDiv > div {
     padding: 3vw;
 
-    width: 44%;
+    width: 55%;
   }
   
   .circle {

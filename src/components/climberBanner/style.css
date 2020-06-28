@@ -1,8 +1,7 @@
 cilimber and lorem paragraph
 #climbRow {
+  height: 2vw;
     overflow: hidden;
-    word-wrap: break-word;
-    min-height: fit-content;
   }
   
   #climbLorem {

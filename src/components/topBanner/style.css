@@ -50,9 +50,10 @@
   
   /* button in heRow div */
   #heroButt {
+    font-size: 2vw;
+
     padding: .5vw;
     background-color: #AC5FD1;
     color: aliceblue;
     font-family: "Open Sans", sans-serif;
-    font-size: large;
   }

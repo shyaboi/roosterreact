@@ -18,13 +18,12 @@
   padding-bottom: 20vw;
   font-family: "Open Sans", sans-serif;
   color: white;
-  font-size: calc(1vw + 1px);
 }
 
 #momButt {
+  font-size: 2vw;
   padding: .5vw;
   background-color: #FF7218;
   color: aliceblue;
   font-family: "Open Sans", sans-serif;
-  font-size: large;
 }
