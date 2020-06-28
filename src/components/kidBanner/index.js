@@ -12,10 +12,10 @@ function Kid() {
       {/* <!-- bootstrap kid row --> */}
       <div id="kidRow" className="row">
         {/* <!-- lorem div with button --> */}
-        <div id="kidRem" >
-          <h2>
+        <div id="kidRem">
+          <h4>
             LOREM IPSUM
-          </h2>
+          </h4>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Perspiciatis, eveniet? Saepe earum enim vel nihil excepturi

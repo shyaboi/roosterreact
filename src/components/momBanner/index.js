@@ -11,7 +11,7 @@ function Mom() {
     <div id="momRow" className="row">
       {/* <!-- lorem div with button --> */}
       <div id="momem" className="col-12">
-        <h2 id="momH">LOREM IPSUM</h2>
+        <h4 id="momH">LOREM IPSUM</h4>
         {/* <!-- welcome dummy button --> */}
         <ClickMom id="momButt" />
       </div>
