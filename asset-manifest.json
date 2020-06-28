@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/roosterreact/static/css/main.9df50cc0.chunk.css",
+    "main.css": "/roosterreact/static/css/main.f928f16d.chunk.css",
     "main.js": "/roosterreact/static/js/main.6edb99d4.chunk.js",
     "main.js.map": "/roosterreact/static/js/main.6edb99d4.chunk.js.map",
     "runtime-main.js": "/roosterreact/static/js/runtime-main.be935b99.js",
@@ -9,10 +9,10 @@
     "static/js/2.fde8e441.chunk.js": "/roosterreact/static/js/2.fde8e441.chunk.js",
     "static/js/2.fde8e441.chunk.js.map": "/roosterreact/static/js/2.fde8e441.chunk.js.map",
     "index.html": "/roosterreact/index.html",
-    "precache-manifest.8a1f550865c4880ec0e89cc4b850ebb6.js": "/roosterreact/precache-manifest.8a1f550865c4880ec0e89cc4b850ebb6.js",
+    "precache-manifest.767d3aa5af273d2f6f3a7b041e901c57.js": "/roosterreact/precache-manifest.767d3aa5af273d2f6f3a7b041e901c57.js",
     "service-worker.js": "/roosterreact/service-worker.js",
     "static/css/2.fa4df4b2.chunk.css.map": "/roosterreact/static/css/2.fa4df4b2.chunk.css.map",
-    "static/css/main.9df50cc0.chunk.css.map": "/roosterreact/static/css/main.9df50cc0.chunk.css.map",
+    "static/css/main.f928f16d.chunk.css.map": "/roosterreact/static/css/main.f928f16d.chunk.css.map",
     "static/js/2.fde8e441.chunk.js.LICENSE.txt": "/roosterreact/static/js/2.fde8e441.chunk.js.LICENSE.txt",
     "static/media/style.css": "/roosterreact/static/media/hero.83af6455.jpg",
     "static/media/facebook.svg": "/roosterreact/static/media/facebook.7bc311e4.svg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.be935b99.js",
     "static/css/2.fa4df4b2.chunk.css",
     "static/js/2.fde8e441.chunk.js",
-    "static/css/main.9df50cc0.chunk.css",
+    "static/css/main.f928f16d.chunk.css",
     "static/js/main.6edb99d4.chunk.js"
   ]
 }
