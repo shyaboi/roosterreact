@@ -1,5 +1,7 @@
 import React from 'react';
 import './style.css';
+import ClickMom from '../Buttons/momButt'
+
 
 function Mom() {
     return(
@@ -9,11 +11,9 @@ function Mom() {
     <div id="momRow" className="row">
       {/* <!-- lorem div with button --> */}
       <div id="momem" className="col-12">
-        <h2>LOREM IPSUM</h2>
+        <h2 id="momH">LOREM IPSUM</h2>
         {/* <!-- welcome dummy button --> */}
-        <button type="button" id="momButt" className="btn btn-primary">
-          BUTTON BUTTON
-        </button>
+        <ClickMom id="momButt" />
       </div>
     </div>
   </div>

@@ -17,3 +17,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h2{
+  font-weight: bolder;
+  color: #613475;
+}
+h5{
+  font-weight: bolder;
+  color: #613475;
+
+}

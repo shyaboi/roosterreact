@@ -1,4 +1,6 @@
 #kidRow {
+  width: 102vw;
+
     background-image: url("../../assets/images/banner-2.jpg");
     position: relative;
     text-align: left;
@@ -18,5 +20,10 @@
   }
   
   #kidButt {
-    background: orange;
+    padding: 1rem;
+    background-color: #FF7218;
+    color: aliceblue;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    font-size: large;
   }

@@ -1,5 +1,7 @@
 import React from "react";
 import "./style.css";
+import ClickKid from '../Buttons/kidButt'
+
 
 
 function Kid() {
@@ -21,9 +23,7 @@ function Kid() {
             distinctio similique fugit eos sit?
           </p>
           {/* <!-- welcome dummy button --> */}
-          <button type="button" id="kidButt" className="btn btn-primary">
-            BUTTON BUTTON
-          </button>
+          <ClickKid type="button" id="kidButt" />
         </div>
       </div>
     </div>

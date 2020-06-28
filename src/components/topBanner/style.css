@@ -1,7 +1,4 @@
-.btn {
-    font-size: 2vmin;
-  }
-  
+
   
   /* fixed rooster logo top left */
   #logo {
@@ -15,12 +12,15 @@
   
   /* top banner "heRow" */
   #heRow {
+    width: 102vw;
+
     position: relative;
     text-align: center;
     background-image: url("../../assets/images/hero.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
+
   }
   
   /* welcom text in heRow */
@@ -50,5 +50,10 @@
   
   /* button in heRow div */
   #heroButt {
-    background-color: purple;
+    padding: 1rem;
+    background-color: #AC5FD1;
+    color: aliceblue;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    font-size: large;
   }

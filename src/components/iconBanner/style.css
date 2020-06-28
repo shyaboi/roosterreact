@@ -1,10 +1,11 @@
-#svgDiv {
-    background: #000;
-  }
+#iconRow{
+  width: 102vw;
+
+}
   
   #iconLorem {
     padding-left: 15vw;
-    padding-top: 10vw;
+    padding-top: 5vw;
     padding-right: 10vw;
   }
   
@@ -23,7 +24,9 @@
   }
   
   #svgDiv > div {
-    width: 50%;
+    padding: 3vw;
+
+    width: 44%;
   }
   
   .circle {

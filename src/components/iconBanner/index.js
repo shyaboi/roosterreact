@@ -10,10 +10,10 @@ import HomeRet from "../../assets/images/home-retention.svg";
 function Icon() {
   return (
     <Container fluid>
-      <Row-12 id="climbRow" class="row">
-        <Col-6 id="climbLorem" class="col-6">
-          <div id="climbLoremP">
-            <h1>LOREM IPSUM</h1>
+      <Row-12 id="iconRow" class="row">
+        <Col-6 id="iconLorem" class="col-6">
+          <div id="iconLoremP">
+            <h2>LOREM IPSUM</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam
               quisquam accusamus reiciendis laudantium optio? Mollitia nobis rem

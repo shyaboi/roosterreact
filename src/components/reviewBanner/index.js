@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import Carousel from '../carousel/index'
-
+import Stars from '../stars/index'
 
  
 
@@ -13,6 +13,9 @@ function Review() {
             <div id="ratingStars">
               <h2>Star Rating</h2>
               <h2>Title Go Here</h2>
+              <div>
+                <Stars />
+              </div>
             </div>
           </div>
           <div className="col-6" >

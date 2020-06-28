@@ -5,6 +5,7 @@ import Mom from './components/momBanner/index';
 import Icon from './components/iconBanner/index';
 import Kid from './components/kidBanner/index';
 import Review from './components/reviewBanner/index'
+import Footer from './components/footer/index'
 
 import './App.css';
 
@@ -17,6 +18,7 @@ function App() {
 <Icon />
 <Kid />
 <Review />
+<Footer />
     </div>
   );
 }
