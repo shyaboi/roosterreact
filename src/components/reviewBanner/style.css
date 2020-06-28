@@ -1,5 +1,5 @@
 #starH2{
-  font-size: 3vw;
+  font-size: 4vw;
 }
 
 .checked {
@@ -15,7 +15,7 @@ li > div {
 
   #ratingStars {
     text-align: center;
-    padding-top: 5vw;
+    padding-top: 10vw;
   }
   
   

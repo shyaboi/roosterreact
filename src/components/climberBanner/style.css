@@ -9,11 +9,11 @@ cilimber and lorem paragraph
     padding-right: 10vw;
   }
   #climbH5{
-    font-size: 2.7vw;
+    font-size: 4vw;
   }
   #climbLoremP {
     text-align: left;
-    font-size: calc(1vw + 1px);
+    font-size: calc(1.3vw + 1px);
     font-family: "Open Sans", sans-serif;
   }
   
