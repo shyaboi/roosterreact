@@ -13,7 +13,7 @@ function Icon() {
       <Row-12 id="iconRow" class="row">
         <Col-6 id="iconLorem" class="col-6">
           <div id="iconLoremP">
-            <h5>LOREM IPSUM</h5>
+            <h5 id="iconH5">LOREM IPSUM</h5>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam
               quisquam accusamus reiciendis laudantium optio? Mollitia nobis rem

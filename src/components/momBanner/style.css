@@ -9,7 +9,9 @@
   overflow: hidden;
 }
 
-
+#momH5{
+  font-size: 3vw;
+}
 
 #momem {
   padding-left: 15vmin;
@@ -21,7 +23,7 @@
 }
 
 #momButt {
-  font-size: 2vw;
+  font-size: 1.5vw;
   padding: .5vw;
   background-color: #FF7218;
   color: aliceblue;

@@ -9,7 +9,7 @@ function Carousel() {
     return (
       <CarouselProvider
         naturalSlideWidth={5}
-        naturalSlideHeight={4}
+        naturalSlideHeight={3.5}
         totalSlides={3}
       >
         <Slider >

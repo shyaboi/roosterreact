@@ -12,7 +12,7 @@ function Climber() {
       <Row-12 id="climbRow" class="row">
         <Col-6 id="climbLorem" class="col-6">
           <div id="climbLoremP">
-          <h5>LOREM IPSUM</h5>
+          <h5 id="climbH5">LOREM IPSUM</h5>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam
               quisquam accusamus reiciendis laudantium optio? Mollitia nobis rem

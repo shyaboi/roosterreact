@@ -11,9 +11,9 @@ function Review() {
         <div id='ratingRow' className="row">
           <div id="RatingLorem" className="col-6">
             <div id="ratingStars">
-              <h2>Star Rating</h2>
-              <h2>Title Go Here</h2>
-              <div>
+              <h2 id="starH2">Star Rating</h2>
+              <h2 id="starH2">Title Go Here</h2>
+              <div id="starDiv">
                 <Stars />
               </div>
             </div>

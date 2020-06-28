@@ -13,7 +13,7 @@ function Kid() {
       <div id="kidRow" className="row">
         {/* <!-- lorem div with button --> */}
         <div id="kidRem">
-          <h5>
+          <h5 id="kidH5">
             LOREM IPSUM
           </h5>
           <p>

@@ -1,27 +1,32 @@
 #kidRow {
   width: 102vw;
-height: 50vw;
-    background-image: url("../../assets/images/banner-2.jpg");
-    position: relative;
-    text-align: left;
-    background-repeat: no-repeat;
-    background-size: cover;
-    overflow: hidden;
-  }
-  
-  #kidRem {
-    padding-left: 65vw;
-    padding-top: 5vw;
-    padding-right: 15vw;
-    font-family: "Open Sans", sans-serif;
-    color: black;
-    font-size: calc(1.5vw + 1px);
-  }
-  
-  #kidButt {
-    font-size: 2vw;
-    padding: .5vw;
-    background-color: #FF7218;
-    color: aliceblue;
-    font-family: "Open Sans", sans-serif;
-  }
+  height: 50vw;
+  background-image: url("../../assets/images/banner-2.jpg");
+  position: relative;
+  text-align: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+#kidH5 {
+  font-size: 3vw;
+
+}
+
+#kidRem {
+  padding-left: 65vw;
+  padding-top: 5vw;
+  padding-right: 15vw;
+  font-family: "Open Sans", sans-serif;
+  color: black;
+  font-size: calc(1.5vw + 1px);
+}
+
+#kidButt {
+  font-size: 1.5vw;
+  padding: .5vw;
+  background-color: #FF7218;
+  color: aliceblue;
+  font-family: "Open Sans", sans-serif;
+}

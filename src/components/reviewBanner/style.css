@@ -1,9 +1,14 @@
+#starH2{
+  font-size: 3vw;
+}
+
 .checked {
     color: orange;
   }
   
 li > div {
-  font-size: 1.7vw;
+  margin-top: 6vw;
+  font-size: 1.5vw;
 }
 
 
