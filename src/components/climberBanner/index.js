@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import climberPic from "../../assets/images/img-1.jpg"
-import {Container, Col, Row, Grid } from 'react-bootstrap';
+import {Container} from 'react-bootstrap';
 
 
 
@@ -26,7 +26,7 @@ function Climber() {
           </div>
           </Col-6>
         <Col-6 class="col-6">
-          <img src= {climberPic} id="climbLoremPic" />
+          <img src= {climberPic} id="climbLoremPic" alt="rock climber"/>
           </Col-6>
       </Row-12>
     </Container>

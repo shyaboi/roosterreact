@@ -1,5 +1,5 @@
 import React from "react";
-import { Grid, Row, Col, Container } from "react-bootstrap/";
+import { Row, Col, Container } from "react-bootstrap/";
 
 import "./style.css";
 import HomeLab from "../../assets/images/home-lab.svg";
@@ -30,13 +30,13 @@ function Icon() {
             <Row>
               <Col>
               <div>
-                <img className="circle" src={HomeLab} />
+                <img className="circle" src={HomeLab} alt="cartoon lab glasses"/>
                 LOREM IPSUM
                 </div>
               </Col>
               <Col>
               <div>
-                <img src={HomeEx} className="circle" />
+                <img src={HomeEx} className="circle" alt="notepad and pen"/>
                 LOREM
                 </div>
               </Col>
@@ -44,13 +44,13 @@ function Icon() {
             <Row>
               <Col>
               <div>
-                <img src={HomeHyg} className="circle" />
+                <img src={HomeHyg} className="circle" alt="face mask"/>
                 LOREM IPSUM
                 </div>
               </Col>
               <Col>
               <div>
-                <img src={HomeRet} className="circle" />
+                <img src={HomeRet} className="circle" alt="calander" />
                 IPSUM
                 </div>
               </Col>

@@ -2,9 +2,13 @@
     color: orange;
   }
   
+li > div {
+  padding-top: 6vw;
+  font-size: 2vmin;
+}
 
-  
-  
+
+
   #ratingStars {
     text-align: center;
     padding-top: 5vw;

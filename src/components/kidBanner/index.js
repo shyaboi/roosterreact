@@ -3,13 +3,14 @@ import "./style.css";
 
 
 function Kid() {
+
   return (
     // <!-- bootstrap container row banner kid -->
-    <div class="container-fluid">
+    <div className="container-fluid">
       {/* <!-- bootstrap kid row --> */}
-      <div id="kidRow" class="row">
+      <div id="kidRow" className="row">
         {/* <!-- lorem div with button --> */}
-        <div id="kidRem" class="col-12">
+        <div id="kidRem" className="col-12">
           <h2>
             LOREM IPSUM
           </h2>
@@ -20,13 +21,13 @@ function Kid() {
             distinctio similique fugit eos sit?
           </p>
           {/* <!-- welcome dummy button --> */}
-          <button type="button" id="kidButt" class="btn btn-primary">
+          <button type="button" id="kidButt" className="btn btn-primary">
             BUTTON BUTTON
           </button>
         </div>
       </div>
     </div>
   );
-}
 
+  }
 export default Kid;
