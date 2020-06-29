@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9d4a25ee1c3dc556b38e3eb996e2a73",
+    "revision": "90a9d36b18cfbb6defea26cb7f4aa115",
     "url": "/roosterreact/index.html"
   },
   {
-    "revision": "7bc7afc7563078800c56",
+    "revision": "c7898b95d5880c292ee3",
     "url": "/roosterreact/static/css/2.fa4df4b2.chunk.css"
   },
   {
-    "revision": "cb8132deab34aa032a4a",
-    "url": "/roosterreact/static/css/main.4ba7c644.chunk.css"
+    "revision": "680dd27c8c2ba2046a85",
+    "url": "/roosterreact/static/css/main.72e03213.chunk.css"
   },
   {
-    "revision": "7bc7afc7563078800c56",
-    "url": "/roosterreact/static/js/2.fde8e441.chunk.js"
+    "revision": "c7898b95d5880c292ee3",
+    "url": "/roosterreact/static/js/2.594c0959.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/roosterreact/static/js/2.fde8e441.chunk.js.LICENSE.txt"
+    "url": "/roosterreact/static/js/2.594c0959.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb8132deab34aa032a4a",
-    "url": "/roosterreact/static/js/main.c4adad4a.chunk.js"
+    "revision": "680dd27c8c2ba2046a85",
+    "url": "/roosterreact/static/js/main.d697cc5d.chunk.js"
   },
   {
     "revision": "5a0b9198516472adab99",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roosterreact/static/media/facebook.7bc311e4.svg"
   },
   {
-    "revision": "83af6455cc310dffacba4d9981178c62",
-    "url": "/roosterreact/static/media/hero.83af6455.jpg"
+    "revision": "e2af670d307bfa94a7ee5ce2408dc000",
+    "url": "/roosterreact/static/media/hero.e2af670d.jpg"
   },
   {
     "revision": "4631d634d77566ea790be3171fd1adea",
@@ -66,5 +66,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "417149bccf5f7ef142c1e2aa48778220",
     "url": "/roosterreact/static/media/instagram.417149bc.svg"
+  },
+  {
+    "revision": "5fa495406d159ef8bfc2e2ddfcb88bc7",
+    "url": "/roosterreact/static/media/logo-color.5fa49540.svg"
   }
 ]);
