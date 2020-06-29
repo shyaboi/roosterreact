@@ -8,7 +8,7 @@ In this iteration, I used React via create-react-app to populate the boiler plat
 
 # Any struggles you faced when developing with technology you chose?
 <br>This was actually my first exposure to configuring webpack  I had a lot of trouble getting the provided server properly deployed which is why I made this React version as well as a vanilla HTML page.
-<br> I could get the webpack dev server working well and looking as desired, but when it came time to deploy, I was a little confused on how to deploy properly and heroku kept timing out on my build, and my deployment it github was serving the original index.html without the bundles. so I figured I would make the 2 versions to make up for it.
+<br> I could get the webpack dev server working well and looking as desired, but when it came time to deploy, I was a little confused on how to build the bundle properly and heroku kept timing out on webpack post build. My deployment to github was serving the original index.html without the bundles. so I figured I shouldn't waste tons of time on simply deploying the site, so I made the other 2 versions to make up for it.
 <br>
 Not really with the tech I chose. Outside of sizing the divs properly with the content inside; create-react-app makes it simple to get going.
 
