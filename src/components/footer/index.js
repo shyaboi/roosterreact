@@ -2,8 +2,9 @@ import React from "react";
 import "./style.css";
 import facebook from "../../assets/images/facebook.svg";
 import instagram from "../../assets/images/instagram.svg";
-
+// footer
 class Footer extends React.Component {
+  // clickable link for instagram img
   pop = (a) => {
     window.open(
       "http://www.instagram.com",
@@ -11,6 +12,8 @@ class Footer extends React.Component {
       "width=900,height=650,resizable=yes"
     );
   };
+  // clickable link for facebook img
+
   pup = (a) => {
     window.open(
       "http://www.facebook.com",
