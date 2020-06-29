@@ -35,13 +35,40 @@
 #svgDiv>div {
   padding: 3vw;
   font-size: 1.5vw;
-  animation: bounce 15s infinite alternate;
   width: 60%;
+  animation: bigBounce 60s infinite alternate;
+}
+
+#lab:hover {
+  opacity: .7;
+  animation: bounce 1s infinite alternate;
+}
+#ex:hover {
+  opacity: .7;
+  animation: bounce 1s infinite alternate;
+}
+#hyg:hover {
+  opacity: .7;
+  animation: bounce 1s infinite alternate;
+}
+#ret:hover {
+  opacity: .7;
+  animation: bounce 1s infinite alternate;
 }
 
 @keyframes bounce {
   from {
-    transform: translateY(-5vw);
+    transform: translateY(-.5vw);
+  }
+
+  to {
+    transform: translateY(.5vw);
+  }
+}
+
+@keyframes bigBounce {
+  from {
+    transform: translateY(-3vw);
   }
 
   to {

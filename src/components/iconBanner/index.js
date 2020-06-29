@@ -27,6 +27,7 @@ function Icon() {
               <Col>
                 <div>
                   <img
+                  id='lab'
                     className="circle"
                     src={HomeLab}
                     alt="cartoon lab glasses"
@@ -36,7 +37,7 @@ function Icon() {
               </Col>
               <Col>
                 <div>
-                  <img src={HomeEx} className="circle" alt="notepad and pen" />
+                  <img src={HomeEx} id='ex' className="circle" alt="notepad and pen" />
                   LOREM
                 </div>
               </Col>
@@ -44,13 +45,13 @@ function Icon() {
             <Row>
               <Col>
                 <div>
-                  <img src={HomeHyg} className="circle" alt="face mask" />
+                  <img src={HomeHyg} id="hyg" className="circle" alt="face mask" />
                   LOREM IPSUM
                 </div>
               </Col>
               <Col>
                 <div>
-                  <img src={HomeRet} className="circle" alt="calander" />
+                  <img src={HomeRet} id="ret" className="circle" alt="calander" />
                   IPSUM
                 </div>
               </Col>
