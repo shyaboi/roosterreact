@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbe5ef9184e213dbe5402fe6e4b63e28",
+    "revision": "15aa814fe609700b960b290ebb04ebd5",
     "url": "/roosterreact/index.html"
   },
   {
