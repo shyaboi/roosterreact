@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90a9d36b18cfbb6defea26cb7f4aa115",
+    "revision": "0a2dea535efb5b69d5509bab262ffcca",
     "url": "/roosterreact/index.html"
   },
   {
-    "revision": "c7898b95d5880c292ee3",
+    "revision": "29d8cff2d6eb8c060d00",
     "url": "/roosterreact/static/css/2.fa4df4b2.chunk.css"
   },
   {
-    "revision": "680dd27c8c2ba2046a85",
-    "url": "/roosterreact/static/css/main.72e03213.chunk.css"
+    "revision": "bf78da0cb815b5b9b979",
+    "url": "/roosterreact/static/css/main.abd711d0.chunk.css"
   },
   {
-    "revision": "c7898b95d5880c292ee3",
-    "url": "/roosterreact/static/js/2.594c0959.chunk.js"
+    "revision": "29d8cff2d6eb8c060d00",
+    "url": "/roosterreact/static/js/2.1570665e.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/roosterreact/static/js/2.594c0959.chunk.js.LICENSE.txt"
+    "url": "/roosterreact/static/js/2.1570665e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "680dd27c8c2ba2046a85",
-    "url": "/roosterreact/static/js/main.d697cc5d.chunk.js"
+    "revision": "bf78da0cb815b5b9b979",
+    "url": "/roosterreact/static/js/main.21c91f28.chunk.js"
   },
   {
     "revision": "5a0b9198516472adab99",
