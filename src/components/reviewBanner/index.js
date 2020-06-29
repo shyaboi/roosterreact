@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
-import Carousel from "../Carousel/index";
-import Stars from "../Stars/index";
+import Carousel from "../carousel/index";
+import Stars from "../stars/index";
 
 function Review() {
   return (
