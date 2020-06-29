@@ -4,7 +4,7 @@ import logo from '../../assets/images/logo-color.svg'
 
 
 class Logo extends React.Component {
-
+// click logo function with link
     pop = (a) => {
         window.open('http://www.roostergrin.com'); 
       };

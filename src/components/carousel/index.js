@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-
+// imports from pure react carousel
 import {
   CarouselProvider,
   Slider,
@@ -10,6 +10,7 @@ import {
 } from "pure-react-carousel";
 import "pure-react-carousel/dist/react-carousel.es.css";
 
+// carousel function
 function Carousel() {
   return (
     <CarouselProvider
@@ -17,6 +18,7 @@ function Carousel() {
       naturalSlideHeight={4}
       totalSlides={3}
     >
+      {/* slide one */}
       <Slider>
         <Slide index={0}>
           {" "}
@@ -25,9 +27,9 @@ function Carousel() {
           magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
           ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
           irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-          fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-          sunt in culpa qui officia deserunt mollit anim id est laborum.
+          fugiat nulla pariatur.
         </Slide>
+        {/* slide two */}
         <Slide index={1}>
           <h5>Karen Paulerino 03/14/2020</h5>Ut enim ad minim veniam, quis
           nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -36,6 +38,7 @@ function Carousel() {
           cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
           id est laborum.
         </Slide>
+        {/* slide three */}
         <Slide index={2}>
           <h5>Steven Beefly 01/22/2020</h5>Lorem ipsum dolor sit amet,
           consectetur adipiscing elit, sed do eiusmod tempor incididunt ut

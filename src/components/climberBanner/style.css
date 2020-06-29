@@ -1,4 +1,5 @@
-cilimber and lorem paragraph #climbRow {
+/* cilimber and lorem paragraph */
+#climbRow {
   overflow: hidden;
 }
 
@@ -13,12 +14,14 @@ cilimber and lorem paragraph #climbRow {
   font-weight: 700;
 }
 
+/* cimber lorem paragraph */
 #climbLoremP {
   text-align: left;
   font-size: calc(1.3vw + 1px);
   font-family: "Open Sans", sans-serif;
 }
 
+/* this pic is a little wonky, so offsetting with width vw */
 #climbLoremPic {
   width: 49.7vw;
   background: #000;

@@ -2,7 +2,7 @@ import StarRatings from 'react-star-ratings';
 import React from "react";
 
 
-function Bar() {
+function Stars() {
     
       // aggregateRating = 2.35;
       return (
@@ -15,4 +15,4 @@ function Bar() {
     }
   
 
-  export default Bar;
+  export default Stars;

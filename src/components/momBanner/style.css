@@ -1,3 +1,5 @@
+/* mom banner row with button */
+
 #momRow {
   width: 102vw;
   height: 50vw;
@@ -13,6 +15,7 @@
   font-size: 3vw;
   font-weight: 700;
 }
+/* mom row lorem button div */
 
 #momem {
   padding-left: 15vmin;
@@ -22,6 +25,7 @@
   font-family: "Open Sans", sans-serif;
   color: white;
 }
+/* mom row button */
 
 #momButt {
   font-size: 1.5vw;

@@ -2,10 +2,7 @@
   font-size: 4vw;
 }
 
-.checked {
-  color: orange;
-}
-
+/* resize slides */
 li>div {
   margin-top: 6vw;
   font-size: 1.5vw;
