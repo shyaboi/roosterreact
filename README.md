@@ -4,7 +4,7 @@ In this iteration, I used React via create-react-app to populate the boiler plat
 <br>This was styled with conventional css
 <br> GH paged was used for deployment.
 <br> Pure-react-carousel was used for the carousel at the bottom with the comment section.
-<be>Finally react-star-ratings was used to simulate a star rating, although the package can do more than showcased.
+<br>Finally react-star-ratings was used to simulate a star rating, although the package can do more than showcased.
 
 # Any struggles you faced when developing with technology you chose?
 <br>This was actually my first exposure to configuring webpack  I had a lot of trouble getting the provided server properly deployed which is why I made this React version as well as a vanilla HTML page.
