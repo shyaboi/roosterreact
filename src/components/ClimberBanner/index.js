@@ -22,7 +22,7 @@ function Climber() {
               iste! Esse.
             </p>
           {/* <!-- dummt link for lorem  paragraph--> */}
-            <a href="https://ianss.dev" id="linx"> LOREM IPSUM </a>
+            <a href="https://ianss.dev" id="linx"> LOREM test IPSUM </a>
           </div>
         </Col-6>
         <Col-6 class="col-6">
