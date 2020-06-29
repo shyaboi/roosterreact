@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/roosterreact/precache-manifest.d91a9d61db0bd3b2af7b7b72647c0b6b.js"
+  "/roosterreact/precache-manifest.71b834c32ac9ba0d171ebf3e6a209cf3.js"
 );
 
 self.addEventListener('message', (event) => {
