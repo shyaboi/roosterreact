@@ -24,7 +24,7 @@ function Icon() {
               quisquam accusamus reiciendis laudantium optio? Mollitia nobis rem
               aut impedit. 
             </p>
-            <a href="https://ianss.dev" id="linx"> >LOREM IPSUM </a>
+            <a href="https://ianss.dev" id="linx">>LOREM IPSUM </a>
               
           </div>
         </Col-6>
